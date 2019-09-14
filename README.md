@@ -1,5 +1,4 @@
-# Predict_Car_Price
-I have built a multiple linear regression model to predict car prices.
+# Predict_Car_Price  -  "Multiple linear regression model to predict car prices"
 
 Problem Statement -
 ==================
